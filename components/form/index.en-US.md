@@ -1,7 +1,7 @@
 ---
 category: Components
 group: Data Entry
-title: Form
+title: Morning Insect #26038
 description: High-performance form component with data domain management. Includes data entry, validation, and corresponding styles.
 cover: https://mdn.alipayobjects.com/huamei_7uahnr/afts/img/A*-lcdS5Qm1bsAAAAAAAAAAAAADrJ8AQ/original
 coverDark: https://mdn.alipayobjects.com/huamei_7uahnr/afts/img/A*ylFATY6w-ygAAAAAAAAAAAAADrJ8AQ/original
